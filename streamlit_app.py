@@ -89,9 +89,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "다시 한 번 자세를 봐볼까요?.",
+            "올바르지 않은 자세입니다",
+            "노력해봐요"
         ]
     },
     labels[1]: {
@@ -106,9 +106,9 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "야!!!!!.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "아주 좋은 자세에요",
+            "멋지네요 자기 칭찬을 해주도록 해요",
+            "짱입니다."
         ]
     }
 }
