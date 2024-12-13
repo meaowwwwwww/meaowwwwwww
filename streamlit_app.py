@@ -151,4 +151,3 @@ if uploaded_file is not None:
             'texts': ["기본 텍스트"] * 3
         })
         display_right_content(prediction, data)
-
